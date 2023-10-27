@@ -2,6 +2,9 @@
 
 The best place to find our publications is now [here](https://darkmentor.com/publication/).
 
+* 2023 presentation "Open Wounds: The last 5 years have left Bluetooth to bleed":  
+  * [Hack.lu, Luxembourg - slides](./2023/OpenWounds_Survey_Hacklu2023_Slides_With_Builds.pdf)
+
 * 2023 presentation "It was harder to sniff Bluetooth through my mask during the pandemic...":  
 (Slides were customized to the venue, based on available speaking time, and new data sniffed at the locations, when applicable)
   * [Hack In The Box, Phuket Thailand - slides](./2023/PandemicSniffing_HITB2023_HKT_Slides_With_Builds.pdf)
