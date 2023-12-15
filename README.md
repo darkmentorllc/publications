@@ -4,6 +4,7 @@ The best place to find our publications is now [here](https://darkmentor.com/pub
 
 * 2023 presentation `"Blue2thprinting (blue-[tooth)-printing]: answering the question of 'WTF am I even looking at?!'"`":
   * [Hardwear.io, The Hague Netherlands - slides](./2023/Blue2thprinting_Hardweario2023_Slides_With_Builds.pdf)
+  * [H2HC, São Paulo Brazil - slides](./2023/Blue2thprinting_H2HC2023_Slides_With_Builds.pdf)
 
 * 2023 presentation "Open Wounds: The last 5 years have left Bluetooth to bleed":
   * [Hack.lu, Luxembourg - slides](./2023/OpenWounds_Survey_Hacklu2023_Slides_With_Builds.pdf)
