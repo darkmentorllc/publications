@@ -1,6 +1,9 @@
 # Publications
 
-The best place to find our publications is now [here](https://darkmentor.com/publication/).
+## The best place to find our publications is now [here](https://darkmentor.com/publication/).
+
+* 2025 conference presentation `"Reverse engineering Realtek RTL8761B* Bluetooth chips, to make better Bluetooth security tools & classes"`
+	* [Hardwear.io, Amsterdam Netherlands - slides (45m version)](https://darkmentor.com/2025-11-21_HardwearioNL2025_RTL8761B_RE_Slides_With_Builds.pdf) (~148MB)
 
 * 2025 conference presentation `"Crowdsourcing Bluetooth identity, to understand Bluetooth vulnerability"`
   * [SEC-T, Stockholm Sweden - slides (45m version)](./2025/2025-09-12-SEC-T_Crowdsourcing_Bluetooth_Identity_to_understand_Bluetooth_vulnerability.pdf)
