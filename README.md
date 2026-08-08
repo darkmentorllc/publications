@@ -2,14 +2,17 @@
 
 ## The best place to find our publications is now [here](https://darkmentor.com/publication/).
 
+* 2026 conference presentation `"How much of our Bluetooth firmware reverse engineering work can now be automated with LLMs?"`
+	* [DEFCON, Las Vegas USA - slides (50m version)](./2026/2026-08-08-DEFCON_How_much_of_our_Bluetooth_firmware_reverse_engineering_work_can_now_be_automated_with_LLMs.pdf) (~55MB)
+
 * 2025 conference presentation `"Reverse engineering Realtek RTL8761B* Bluetooth chips, to make better Bluetooth security tools & classes"`
 	* [Hardwear.io, Amsterdam Netherlands - slides (45m version)](https://darkmentor.com/2025-11-21_HardwearioNL2025_RTL8761B_RE_Slides_With_Builds.pdf) (~148MB)
 
 * 2025 conference presentation `"Crowdsourcing Bluetooth identity, to understand Bluetooth vulnerability"`
   * [SEC-T, Stockholm Sweden - slides (45m version)](./2025/2025-09-12-SEC-T_Crowdsourcing_Bluetooth_Identity_to_understand_Bluetooth_vulnerability.pdf)
   * [SEC-T, Stockholm Sweden - video (45m version)](https://www.youtube.com/watch?v=bRU7EM834m0)
-  * [DistrictCon, Washington DC - slides (25m version)](./2025/2025-02-22-DistrictCon_Crowdsourcing_Bluetooth_Identity_to_understand_Bluetooth_vulnerability.pdf)
-  * [DistrictCon, Washington DC - video (25m version)](https://www.youtube.com/watch?v=pJgiS8ZQfDg)
+  * [DistrictCon, Washington DC USA - slides (25m version)](./2025/2025-02-22-DistrictCon_Crowdsourcing_Bluetooth_Identity_to_understand_Bluetooth_vulnerability.pdf)
+  * [DistrictCon, Washington DC USA - video (25m version)](https://www.youtube.com/watch?v=pJgiS8ZQfDg)
 
 * 2023/2024 **full presentation** `"Blue2thprinting (blue-[tooth)-printing]: answering the question of 'WTF am I even looking at?!'"`:
   * **[Kovah Cut: 1.5 hour superset version! - slides](https://darkmentor.com/Blue2thprint_slides_Kovah_Cut.pdf)**
